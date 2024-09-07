@@ -1,0 +1,14 @@
+C:\Users\rhill\OneDrive\Área de Trabalho\projetosPOO\POO_Heranca_Generalizacao\POO_Heranca_Generalizacao\bin\Debug\net8.0\POO_Heranca_Generalizacao.exe
+C:\Users\rhill\OneDrive\Área de Trabalho\projetosPOO\POO_Heranca_Generalizacao\POO_Heranca_Generalizacao\bin\Debug\net8.0\POO_Heranca_Generalizacao.deps.json
+C:\Users\rhill\OneDrive\Área de Trabalho\projetosPOO\POO_Heranca_Generalizacao\POO_Heranca_Generalizacao\bin\Debug\net8.0\POO_Heranca_Generalizacao.runtimeconfig.json
+C:\Users\rhill\OneDrive\Área de Trabalho\projetosPOO\POO_Heranca_Generalizacao\POO_Heranca_Generalizacao\bin\Debug\net8.0\POO_Heranca_Generalizacao.dll
+C:\Users\rhill\OneDrive\Área de Trabalho\projetosPOO\POO_Heranca_Generalizacao\POO_Heranca_Generalizacao\bin\Debug\net8.0\POO_Heranca_Generalizacao.pdb
+C:\Users\rhill\OneDrive\Área de Trabalho\projetosPOO\POO_Heranca_Generalizacao\POO_Heranca_Generalizacao\obj\Debug\net8.0\POO_Heranca_Generalizacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhill\OneDrive\Área de Trabalho\projetosPOO\POO_Heranca_Generalizacao\POO_Heranca_Generalizacao\obj\Debug\net8.0\POO_Heranca_Generalizacao.AssemblyInfoInputs.cache
+C:\Users\rhill\OneDrive\Área de Trabalho\projetosPOO\POO_Heranca_Generalizacao\POO_Heranca_Generalizacao\obj\Debug\net8.0\POO_Heranca_Generalizacao.AssemblyInfo.cs
+C:\Users\rhill\OneDrive\Área de Trabalho\projetosPOO\POO_Heranca_Generalizacao\POO_Heranca_Generalizacao\obj\Debug\net8.0\POO_Heranca_Generalizacao.csproj.CoreCompileInputs.cache
+C:\Users\rhill\OneDrive\Área de Trabalho\projetosPOO\POO_Heranca_Generalizacao\POO_Heranca_Generalizacao\obj\Debug\net8.0\POO_Heranca_Generalizacao.dll
+C:\Users\rhill\OneDrive\Área de Trabalho\projetosPOO\POO_Heranca_Generalizacao\POO_Heranca_Generalizacao\obj\Debug\net8.0\refint\POO_Heranca_Generalizacao.dll
+C:\Users\rhill\OneDrive\Área de Trabalho\projetosPOO\POO_Heranca_Generalizacao\POO_Heranca_Generalizacao\obj\Debug\net8.0\POO_Heranca_Generalizacao.pdb
+C:\Users\rhill\OneDrive\Área de Trabalho\projetosPOO\POO_Heranca_Generalizacao\POO_Heranca_Generalizacao\obj\Debug\net8.0\POO_Heranca_Generalizacao.genruntimeconfig.cache
+C:\Users\rhill\OneDrive\Área de Trabalho\projetosPOO\POO_Heranca_Generalizacao\POO_Heranca_Generalizacao\obj\Debug\net8.0\ref\POO_Heranca_Generalizacao.dll
