@@ -1,25 +1,19 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/yaS4OAFT)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15805171&assignment_repo_type=AssignmentRepo)
-# Título do Projeto
+# Repositório de atividades de POO
 
-`CURSO: Sistemas de Informação`
+`CURSO: Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA: Projeto - Projeto de Infraestrutura`
+`DISCIPLINA: Programação Orientada a Objetos - Projetos POO`
 
-`Eixo: 5`
+`Professor: Fábio Cordeiro`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Rhillary Carvalho
 
-## Orientador
 
-* Nome completo do professor 1
+
 
 
