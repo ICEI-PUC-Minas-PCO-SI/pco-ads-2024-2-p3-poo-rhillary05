@@ -1,0 +1,14 @@
+C:\Users\rhill\OneDrive\Área de Trabalho\projetosPOO\SimuladorPatos\SimuladorPatos\bin\Debug\net8.0\SimuladorPatos.exe
+C:\Users\rhill\OneDrive\Área de Trabalho\projetosPOO\SimuladorPatos\SimuladorPatos\bin\Debug\net8.0\SimuladorPatos.deps.json
+C:\Users\rhill\OneDrive\Área de Trabalho\projetosPOO\SimuladorPatos\SimuladorPatos\bin\Debug\net8.0\SimuladorPatos.runtimeconfig.json
+C:\Users\rhill\OneDrive\Área de Trabalho\projetosPOO\SimuladorPatos\SimuladorPatos\bin\Debug\net8.0\SimuladorPatos.dll
+C:\Users\rhill\OneDrive\Área de Trabalho\projetosPOO\SimuladorPatos\SimuladorPatos\bin\Debug\net8.0\SimuladorPatos.pdb
+C:\Users\rhill\OneDrive\Área de Trabalho\projetosPOO\SimuladorPatos\SimuladorPatos\obj\Debug\net8.0\SimuladorPatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhill\OneDrive\Área de Trabalho\projetosPOO\SimuladorPatos\SimuladorPatos\obj\Debug\net8.0\SimuladorPatos.AssemblyInfoInputs.cache
+C:\Users\rhill\OneDrive\Área de Trabalho\projetosPOO\SimuladorPatos\SimuladorPatos\obj\Debug\net8.0\SimuladorPatos.AssemblyInfo.cs
+C:\Users\rhill\OneDrive\Área de Trabalho\projetosPOO\SimuladorPatos\SimuladorPatos\obj\Debug\net8.0\SimuladorPatos.csproj.CoreCompileInputs.cache
+C:\Users\rhill\OneDrive\Área de Trabalho\projetosPOO\SimuladorPatos\SimuladorPatos\obj\Debug\net8.0\SimuladorPatos.dll
+C:\Users\rhill\OneDrive\Área de Trabalho\projetosPOO\SimuladorPatos\SimuladorPatos\obj\Debug\net8.0\refint\SimuladorPatos.dll
+C:\Users\rhill\OneDrive\Área de Trabalho\projetosPOO\SimuladorPatos\SimuladorPatos\obj\Debug\net8.0\SimuladorPatos.pdb
+C:\Users\rhill\OneDrive\Área de Trabalho\projetosPOO\SimuladorPatos\SimuladorPatos\obj\Debug\net8.0\SimuladorPatos.genruntimeconfig.cache
+C:\Users\rhill\OneDrive\Área de Trabalho\projetosPOO\SimuladorPatos\SimuladorPatos\obj\Debug\net8.0\ref\SimuladorPatos.dll
